@@ -1,0 +1,15 @@
+C:\Users\Игнат\Desktop\Gikbriins\project C#\Domacha_5\36\bin\Debug\net6.0\36.exe
+C:\Users\Игнат\Desktop\Gikbriins\project C#\Domacha_5\36\bin\Debug\net6.0\36.deps.json
+C:\Users\Игнат\Desktop\Gikbriins\project C#\Domacha_5\36\bin\Debug\net6.0\36.runtimeconfig.json
+C:\Users\Игнат\Desktop\Gikbriins\project C#\Domacha_5\36\bin\Debug\net6.0\36.dll
+C:\Users\Игнат\Desktop\Gikbriins\project C#\Domacha_5\36\bin\Debug\net6.0\36.pdb
+C:\Users\Игнат\Desktop\Gikbriins\project C#\Domacha_5\36\obj\Debug\net6.0\36.csproj.AssemblyReference.cache
+C:\Users\Игнат\Desktop\Gikbriins\project C#\Domacha_5\36\obj\Debug\net6.0\36.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Игнат\Desktop\Gikbriins\project C#\Domacha_5\36\obj\Debug\net6.0\36.AssemblyInfoInputs.cache
+C:\Users\Игнат\Desktop\Gikbriins\project C#\Domacha_5\36\obj\Debug\net6.0\36.AssemblyInfo.cs
+C:\Users\Игнат\Desktop\Gikbriins\project C#\Domacha_5\36\obj\Debug\net6.0\36.csproj.CoreCompileInputs.cache
+C:\Users\Игнат\Desktop\Gikbriins\project C#\Domacha_5\36\obj\Debug\net6.0\36.dll
+C:\Users\Игнат\Desktop\Gikbriins\project C#\Domacha_5\36\obj\Debug\net6.0\refint\36.dll
+C:\Users\Игнат\Desktop\Gikbriins\project C#\Domacha_5\36\obj\Debug\net6.0\36.pdb
+C:\Users\Игнат\Desktop\Gikbriins\project C#\Domacha_5\36\obj\Debug\net6.0\36.genruntimeconfig.cache
+C:\Users\Игнат\Desktop\Gikbriins\project C#\Domacha_5\36\obj\Debug\net6.0\ref\36.dll
